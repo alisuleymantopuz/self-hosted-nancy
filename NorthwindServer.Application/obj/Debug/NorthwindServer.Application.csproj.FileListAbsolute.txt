@@ -1,0 +1,10 @@
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindServer\NorthwindServer.Application\bin\Debug\NorthwindServer.Application.exe.config
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindServer\NorthwindServer.Application\bin\Debug\NorthwindServer.Application.exe
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindServer\NorthwindServer.Application\bin\Debug\NorthwindServer.Application.pdb
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindServer\NorthwindServer.Application\bin\Debug\Nancy.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindServer\NorthwindServer.Application\bin\Debug\Nancy.Hosting.Self.dll
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindServer\NorthwindServer.Application\bin\Debug\Nancy.xml
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindServer\NorthwindServer.Application\bin\Debug\Nancy.Hosting.Self.xml
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindServer\NorthwindServer.Application\obj\Debug\NorthwindServer.Application.csprojResolveAssemblyReference.cache
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindServer\NorthwindServer.Application\obj\Debug\NorthwindServer.Application.exe
+c:\users\a.topuz\documents\visual studio 2013\Projects\NorthwindServer\NorthwindServer.Application\obj\Debug\NorthwindServer.Application.pdb
